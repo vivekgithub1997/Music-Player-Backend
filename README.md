@@ -133,6 +133,6 @@ POST /api/playlists/10/add/3?userId=2
 Play a Song
 --------------------------------
 POST /api/playback/play/5
-RequestParam: userId: 2
+Header: userId: 2
 
 
