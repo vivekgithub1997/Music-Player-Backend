@@ -135,5 +135,4 @@ Play a Song
 POST /api/playback/play/5
 Header: userId: 2
 
-Pull requests are welcome. Open an issue for discussion.
 
